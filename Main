@@ -1,5 +1,7 @@
 SQL Practice and exercises
-SQL Cheatsheet
+
+SQL code
+
 SELECT 'столбцы или * для выбора всех столбцов; обязательно'
 FROM 'таблица; обязательно'
 WHERE 'условие/фильтрация, например, city = 'Moscow'; необязательно'
